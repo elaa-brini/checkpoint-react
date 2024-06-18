@@ -1,0 +1,13 @@
+.nav{
+    background-color: aqua;
+   display: flex;
+   justify-content: space-evenly;
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+   }
+   li {
+    padding: 50px;
+   }
